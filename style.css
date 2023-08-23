@@ -1,5 +1,5 @@
 header {
-	background: #BBBBBB;
+	background:#8c0834;
 	padding: 20px 0;
 }
 
@@ -114,4 +114,7 @@ form label, form p {
 
 .checkbox {
 	margin: 20px;
+}
+.titulo-principal{
+	text-align: center;
 }
